@@ -24,3 +24,5 @@ Run the below command from the root directory
 ```
 npm run dev
 ```
+
+# NOTE: MAKE SURE YOU UPDATE THE PACKAGES, SOME DEPRECATED PACKAGES MAY CAUSE DRIVER ERRORS LEADING TO A BSOD.
